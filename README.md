@@ -1,7 +1,7 @@
 # Kodluyoruz Ilk Web
 
 Bu repo [Kodluyoruz](https://kodluyoruz.org/) Front-End eğitiminde oluşturduğumuz ilk web. 
-İçerisinde bir adet README.md dosyası, bir adet resim dosyası ve bir adet de index.html barındırıyor.
+İçerisinde bir adet README.md dosyası, bir adet resim dosyası ve bir adet de index.html dosyası barındırıyor.
 
 ## Installation
 
